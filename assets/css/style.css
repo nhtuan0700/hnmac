@@ -17,10 +17,6 @@ img {
 ul {
   list-style: none;
 }
-.body {
-  display: flex;
-  flex-direction: column;
-}
 /* Header */
 .header {
   background: #0c1a1e;
